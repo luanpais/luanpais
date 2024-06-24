@@ -1,6 +1,6 @@
 # Luan Pais
 
-Olá, sou estudante de Análise e Desenvolvimento de Sistemas na Unicesumar e estou focado na carreira de Desenvolvedor Back-End. No momento, estou iniciando minha trajetória na área da tecnologia, mas pretendo concentrar meus esforços e evoluir nesse campo.
+Olá, sou estudante de Análise e Desenvolvimento de Sistemas na Unicesumar e estou focado na carreira de Desenvolvedor Front-End. No momento, estou iniciando minha trajetória na área da tecnologia, mas pretendo concentrar meus esforços e evoluir nesse campo.
 
 # 📚 Habilidades
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)

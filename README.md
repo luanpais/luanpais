@@ -1,6 +1,8 @@
-# Luan Pais
+# Olá, me chamo Luan ! 
+## Bem vindo ao meu perfil GitHub 👋
 
-Olá, sou estudante de Análise e Desenvolvimento de Sistemas na Unicesumar e estou focado na carreira de Desenvolvedor Front-End. No momento, estou iniciando minha trajetória na área da tecnologia, mas pretendo concentrar meus esforços e evoluir nesse campo.
+- 🌱 Atualmente moro no interior de Minas Gerais e estou cursando Sistemas de Informação na Universidade Federal de Ouro Preto.
+- 🔭 Estou estudando Front-end com as tecnologias: JavaScript, CSS e HTML.
 
 # 📚 Habilidades
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
@@ -15,10 +17,5 @@ Olá, sou estudante de Análise e Desenvolvimento de Sistemas na Unicesumar e es
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luan__hnp/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luanpais)
 
-# 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luanpais&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-# 🤝 Minhas Contribuições
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=luanpais&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/luandio/dio-lab-open-source)
+![Snake animation](https://github.com/luanpais/luanpais/blob/output/github-contribution-grid-snake.svg)

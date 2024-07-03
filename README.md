@@ -1,4 +1,4 @@
-3# Olá, me chamo Luan ! 
+# Olá, me chamo Luan ! 
 ## Bem vindo ao meu perfil GitHub 👋
 
 - 🌱 Atualmente moro no interior de Minas Gerais e estou cursando Sistemas de Informação na Universidade Federal de Ouro Preto.

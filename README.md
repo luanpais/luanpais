@@ -11,7 +11,7 @@
 <h2 align="center" >⚒️ Linguagens ⚒️</h2>
 <br>
 <div align="center" >
-  <img src="https://skillicons.dev/icons?i= html, css, vscode, github, git, javascript " />
+  <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,js" />  
 </div>
 
 <h2 align="center" >⚡Stats⚡</h2>
@@ -19,14 +19,14 @@
 <div align="center" >
   <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=artur-debv&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=luanpais&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=artur-debv&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=luanpais&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=artur-debv&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=luanpais&show_icons=true" />
 </picture>
 </div>
 <br>

@@ -5,7 +5,6 @@
 <div  align="center" >
   - 🔭 Atualmente moro no interior de Minas Gerais e estou cursando Sistemas de Informação na Universidade Federal de Ouro Preto.
   <br>
-- 🌱 Estou estudando Front-end com as tecnologias: JavaScript, CSS e HTML.
 </div>
 
 <h2 align="center" >⚒️ Tecnologias ⚒️</h2>
